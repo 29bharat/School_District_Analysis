@@ -1,4 +1,10 @@
 # School_District_Analysis
 Module 4
-Thomas High School has dropped from 2nd position to 8th position in the school ranking based on % Overall Passing. Overall Charter School summary has been affected as well. 9th graders from Thomas High School for Math and Reading score have been replaced with NaN.
-Detailed analysis on the challenge is provided in the word document in this School_District_Analysis repository: PyCitySchool_Challenge_Analysis.docx
+District Summary:
+From the below comparison, we conclude that the average score for both math and Reading hasn’t been affected – reason being rows with NaN values are not taken into consideration while calculating Mean. However, % Passing Math and % Passing Reading as well as % Overall Passing has dropped for Charter School Type after data correction because Thomas High School is a Charter School. No change in the District School Type.
+
+Challenge:
+![alt text](https://github.com/29bharat/School_District_Analysis/blob/master/Images/District_Challenge.png)
+
+Original:
+![alt text](https://github.com/29bharat/School_District_Analysis/blob/master/Images/District_Original.png)
